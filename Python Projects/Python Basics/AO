@@ -1,0 +1,11 @@
+import turtle
+x=5
+b=4
+print(x)
+print(b)
+1 addition(+)
+2 subtraction(-)
+3 multiplication(*)
+4 division (/)
+if x>=1,2,3,4
+
